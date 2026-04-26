@@ -55,8 +55,8 @@ Customer_Behaviour_Analysis/
 ## 📈 Key Findings
 
 ### Customer Demographics
-- Total Customers Analyzed: [To be populated]
-- Age Distribution: [To be populated]
+- Total Customers Analyzed: 3.9K
+- Age Distribution:
 - Gender Distribution: [To be populated]
 
 ### Purchase Patterns
