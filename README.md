@@ -56,13 +56,11 @@ Customer_Behaviour_Analysis/
 
 ### Customer Demographics
 - Total Customers Analyzed: 3.9K
-- Age Distribution:
-- Gender Distribution: [To be populated]
+- Gender Distribution: Female: 1.248K Male: 2.652K
 
 ### Purchase Patterns
-- Most Popular Product Categories: [To be populated]
-- Average Purchase Value: [To be populated]
-- Seasonal Trends: [To be populated]
+- Most Popular Product Categories: Clothing
+- Average Purchase Value: $59.76
 
 ---
 
