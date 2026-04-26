@@ -43,7 +43,7 @@ Customer_Behaviour_Analysis/
 - **Exploratory Data Analysis (EDA):** Statistical analysis and visualization
 
 ### Database
-- **SQL:** PostgreSQL/MySQL for querying and data aggregation
+- **SQL:** MySQL for querying and data aggregation
 - **Query Optimization:** Efficient data retrieval and transformation
 
 ### Business Intelligence
